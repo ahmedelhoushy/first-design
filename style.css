@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.main{
+   height: 1100px;
+    width: 100%;
+    background-image: url(blue_bg.png);
+    background-repeat: no-repeat;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+nav ul{
+    margin-right: 300px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 10Px 20px; 
+}
+nav ul li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: #ea1538;
+    transition: 0.3s;
+}
+button{
+    border: none;
+    border-radius: 30px;
+    background-color: white;
+    padding: 9px 40px;
+    color: #21A4F1;
+    font-weight: bold;
+    transition: .4s;
+}
+button:hover{
+    transform: scaleY(1.3);
+    cursor: pointer;  
+}
+.par{
+    margin-top:250px;
+    margin-left:120px;
+}
+.par h1{
+    font-size:300%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #9C7CBD;  
+}
+.par h1 span{
+    color: #7B3687;
+}
+.par h3{
+    margin-top: 20px;
+    color: #748494;
+}
+.cc{
+    position: relative;
+}
+.back{
+    position: absolute;
+    left: 700px;
+    top: -250px;
+}
+.person{
+    position: absolute;
+    left: 850px;
+    top: -250px;
+
+}
+.cloud{
+    position: absolute; 
+    left: 830px;
+    top: 200px;
+}
+.wave{
+    position: absolute; 
+     top: 300px;
+}
+.line{
+    position:relative;
+     padding-right: 150px;
+     padding-left: 100px;
+}
+.p1{
+    position: absolute;
+    bottom: -750px;
+    left: 30px;
+}
+.p11{
+    color: #8F5F77;
+}
+.p11 h2 {
+    padding-left:  20px;
+}
+.p2{
+    position:relative;
+    padding-right: 160px;
+    padding-left: 600px;
+    bottom: 370px;
+}
+.p22{
+    color: #8F5F77;
+}
+.p22 h2 {
+    padding-left:  50px;
+}
+.p3{
+    position:relative;
+    padding-right: 160px;
+    padding-left: 1000px;
+     bottom: 370px;
+}
+.p33{
+    color: #8F5F77;
+}
+.p33 h2 {
+    padding-left:  80px;   
+}
+.p4{
+    position:relative;
+    padding-right: 160px;
+    padding-left: 150px;
+    bottom: 670px;
+}
+.p44{
+    color: white
+
+
+}
+.p444{
+    position: absolute;
+}
+.p44 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.p5{
+    position:relative;
+    padding-right: 160px;
+    padding-left: 500px;
+    bottom: 210px;
+
+}
+.p55{
+    color: #8F5F77;
+}
+.p55 h2 {
+    padding-left:  90px;
+    padding-bottom:  -20px;
+
+}
+.p55 h3{
+    padding-left:  90px;
+    padding-top:  30px;
+   
+}
+.p55 h3 .wp55{
+    padding-left:  50px;
+}
+.mark1{
+   
+    position:relative;
+    padding-right: 260px;
+    padding-left: 350px;
+    bottom: 210px;
+}
+.mark2{
+    position:relative;
+   left: -90px;
+    bottom: 235px;
+}
+.p6{
+    position:relative;
+    left: -350px;
+     bottom: 400px;
+}
+.p7{
+    position:relative;
+    bottom: 650px;
+   right: -550px;
+}
+.p8{  
+    position:relative;
+    bottom: 550px;
+    right: 520px;
+}
+.p9{  
+    position:relative;
+    bottom: 1128px;
+    right: -150px;
+}
+.install1{
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+    position:relative;
+    bottom: 1328px;
+    right: 470px;
+}
+.install1:hover{
+    transform: scalex(1.1);
+    cursor: pointer;
+}
+.install2{
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px;
+    position:relative;
+    bottom: 1380px;
+    right: 310px;
+}
+.install2:hover{
+    transform: scalex(1.1);
+    cursor: pointer;
+}
+.icon1{
+    position:relative;
+    right: -10px;
+    bottom: -5px;
+}
+.word1{
+    position:relative;
+    right: -45px;
+    bottom: 25px;
+}
+.icon2{
+    position:relative;
+    right: -10px;
+    bottom: -5px;
+}
+.word2{
+    position:relative;
+    right: -45px;
+    bottom: 25px;
+}
+.social{
+    position:relative;
+    right: 455px;
+   width: 140px;
+   bottom: 1360px;
+}
+.social img{
+    margin: 5px;
+}
+
+.ll  ul li  {
+display: inline-block;
+padding: 10Px 20px;
+position:relative;
+bottom: 1340px;
+right: 455px;
+
+}
+.ll ul li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.ll ul li a:hover{
+    color: #ea1538;
+    transition: 0.3s;
+}
+
+
+
+
+
+
+   
+
+
+
+
+
+    
+
